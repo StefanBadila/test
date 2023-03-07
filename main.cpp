@@ -8,6 +8,6 @@ int main()
     
 
 
-    
+    cout<<"Foarte Tare";
     return 0;
 }
